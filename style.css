@@ -276,6 +276,14 @@ body {
   color:hsl(210, 10%, 33%);
 }
 
+.footer_item a:hover{
+  color: hsl(171, 66%, 44%);
+}
+
+.card_network:hover{
+  fill: hsl(171, 66%, 44%);
+}
+
 @media (max-width: 1000px){
   .footer_contacts{
     gap: 60px;
